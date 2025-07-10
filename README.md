@@ -23,6 +23,7 @@ Target Variable: y (1 = Subscribed, 0 = Not Subscribed)
 
 📊 Dataset:
 
+
 Source: UCI Machine Learning Repository
 
 Records: 45,211
@@ -32,6 +33,7 @@ Features: 17 (numerical & categorical)
 File Size: ~10 MB
 
 Context: Direct phone marketing campaign data from a Portuguese bank.
+
 
 
 
@@ -74,7 +76,10 @@ XGBoost showed the best ROC-AUC and overall performance.
 
 
 
-🧪 Evaluation Metrics
+
+🧪 Evaluation Metrics:
+
+
 Accuracy
 
 Precision
@@ -89,14 +94,22 @@ XGBoost showed a 4% improvement in accuracy over the baseline (Decision Tree).
 
 
 
-🛠️ Tools & Technologies
+
+
+🛠️ Tools & Technologies:
+
+
 Python (Jupyter Notebook)
 
 Libraries: scikit-learn, pandas, matplotlib, numpy, xgboost
 
 
 
-🔭 Future Work
+
+
+🔭 Future Work:
+
+
 Improve accuracy via advanced feature engineering.
 
 Experiment with deep learning models (e.g., PyTorch).
@@ -105,14 +118,19 @@ Apply the pipeline to larger or similar financial datasets.
 
 
 
-📚 References
+
+📚 References:
+
 Moro, S., Cortez, P., & Rita, P. (2014). A Data-Driven Approach to Predict the Success of Bank Telemarketing. Decision Support Systems, Elsevier.
 
 Moro, S., Laureano, R., & Cortez, P. (2011). Using Data Mining for Bank Direct Marketing: An Application of the CRISP-DM Methodology. ESM 2011, EUROSIS.
 
 
 
-📎 Project Files
+
+📎 Project Files:
+
+
 Final Report Machine Learning.pdf – Full written report
 
 Final Project Machine Learning.pptx – Presentation slides
